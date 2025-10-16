@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wang1029/Project/learning/net/BookApi/BookApi/BookApi.csproj": {}
+    "/Users/wang1029/Project/learning/dotnetProject/BookApi/BookApi/BookApi.csproj": {}
   },
   "projects": {
-    "/Users/wang1029/Project/learning/net/BookApi/BookApi/BookApi.csproj": {
+    "/Users/wang1029/Project/learning/dotnetProject/BookApi/BookApi/BookApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wang1029/Project/learning/net/BookApi/BookApi/BookApi.csproj",
+        "projectUniqueName": "/Users/wang1029/Project/learning/dotnetProject/BookApi/BookApi/BookApi.csproj",
         "projectName": "BookApi",
-        "projectPath": "/Users/wang1029/Project/learning/net/BookApi/BookApi/BookApi.csproj",
+        "projectPath": "/Users/wang1029/Project/learning/dotnetProject/BookApi/BookApi/BookApi.csproj",
         "packagesPath": "/Users/wang1029/.nuget/packages/",
-        "outputPath": "/Users/wang1029/Project/learning/net/BookApi/BookApi/obj/",
+        "outputPath": "/Users/wang1029/Project/learning/dotnetProject/BookApi/BookApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wang1029/.nuget/NuGet/NuGet.Config"
